@@ -23,6 +23,9 @@
 ```
 
 # Quick install
+```bash
+git clone git@github.com:pkelly-rh/dev.git && cd dev
+```
 run this from this directory
 ```bash
 chmod +x install.sh && ./install.sh && source ~/.zshrc
