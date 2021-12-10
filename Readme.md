@@ -33,13 +33,16 @@ chmod +x install.sh && ./install.sh && source ~/.zshrc
 Now you have the "dev" alisa
 
 
-# Installation
-
-1. Make sh executable
+# Installation (Long winded version)
+1. Clone this repo
+`git clone git@github.com:pkelly-rh/dev.git`
+2. Change to dev directory
+`cd dev`
+3. Make sh executable
 `chmod +x install.sh`
-2. Run installer
+4. Run installer
 `./install.sh`
-3. Reload zshrc file
+5. Reload zshrc file
 `source ~/.zshrc`
 
 What this will do:
